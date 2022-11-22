@@ -394,10 +394,41 @@
   //  let hello = name => `hello, ${name}!`;
 
 
-   let arrow = name => 'Hello', ${name}!`;
+  //  let arrow = name => 'Hello', ${name}!`;
     
-    console.log(hello('sohail')); hello,Bard!
-    
+  //   console.log(hello('sohail')); hello,Bard!
+
+//  var fun = (a,b)=>{
+  
+//  console.log(fun)
+
+//  };
+
+//  fun(10,20)
+  var  area = prompt('what is your area value');
+  var circle = 3.14;
+  var traingle = 333;
+  var  retangle = 1444;
+  if ("circle") {
+    console.log('the area of circle is' + (3*2**r));
+  }else if('traingle'){
+    console.log('the area of triangel is' + (l*b/2));
+  }else if(retangle){
+    console.log('the areaa of retangle is ' + (l*b/2));
+  }else{
+    console.log('invalid');
+  }
+  
+
+
+
+
+
+
+
+
+
+
 
 
 
