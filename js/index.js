@@ -405,35 +405,78 @@
 //  };
 
 //  fun(10,20)
-  var  area = prompt('what is your area value');
-  var circle = 3.14;
-  var traingle = 333;
-  var  retangle = 1444;
-  if ("circle") {
-    console.log('the area of circle is' + (3*2**r));
-  }else if('traingle'){
-    console.log('the area of triangel is' + (l*b/2));
-  }else if(retangle){
-    console.log('the areaa of retangle is ' + (l*b/2));
-  }else{
-    console.log('invalid');
-  }
-  
+
+//   var  area = prompt('what is your area value');
+//   var circle = 3.14;
+//   var traingle = 333;
+//   var  retangle = 1444;
+//   if ("circle") {
+//     console.log('the area of circle is' + (3*2**r));
+//   }else if('traingle'){
+//     console.log('the area of triangel is' + (l*b/2));
+//   }else if(retangle){
+//     console.log('the areaa of retangle is ' + (l*b/2));
+//   }else{
+//     console.log('invalid');
+//   }
+
+
+
+// var a = [];
+// var b = [];
+
+// console.log(a[0] == b[0])
+// console.log(a[0] === b[0])   
+
+
+// function sum(n,m){
+//   var a = 10 ; var b = a;
+//   var total = a+b;
+
+//   console.log(total)
+
+// }
+
+// // sum()
+
+// function sum(){
+//   var a = 10; b = 20;
+//  console.log(a,b);
+// }
+
+// sum();
+// var hello = (name) => {
+//   return `'helllo'`${name}` -${age}`;
+// }  
+// console.log(hello('hello world'))
 
 
 
 
+// var fun =(a,b=10)=>{
+//  console.log(a+b); 
+// }
+// fun(30);
 
 
+// var myfun = a =>{console.log(a);};
 
+//  myfun(10+20);
 
+//  var fun = function show(a){
+//   return a;
+//   console.log()
+//  };
 
+//  fun(10);
+ 
+// this is arrow function
+var fun = (a,b) => console.log(a+b);
+console.log('sohail');
+console.log('ksow');
 
+fun(10,30);
 
+var fun = a => console.log(a+b);
 
-
-
-
-
-
-
+console.log();
